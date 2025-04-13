@@ -34,33 +34,6 @@ I am a data professional with a passion for solving real-world problems using ma
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔎 [Fake News & Hate Speech Detection Using Deep Learning](https://github.com/OsasAnalyst/Fake-News-and-Hate-Speech-Detection-Using-NLP-and-Deep-Learning)  
-Developed a robust LSTM-based model to classify news articles for fake content and hate speech using word embeddings and NLP techniques.
-
-### 📰 [Fake News Detection Using ML & NLP](https://github.com/OsasAnalyst/Fake-News-Detection-Using-Machine-Learning-and-NLP)  
-Implemented a Random Forest model with TF-IDF feature extraction to detect fake news. Included full pipeline: EDA, preprocessing, training, and evaluation.
-
-### 😷 [Face Mask Detection Using Deep Learning](https://github.com/OsasAnalyst/Automated-Face-Mask-Detection-Using-Deep-Learning)  
-Built a CNN model achieving **92.4% accuracy** on real-world image data, supporting real-time inference at ~30 FPS, deployable for public safety and surveillance.
-
-### 🎥 [Sentiment Analysis with LSTM for Movie Reviews](https://github.com/OsasAnalyst/AI-Powered-Sentiment-Analysis-Leveraging-LSTM-for-Movie-Review-Classification)  
-Trained an LSTM-based model on IMDB movie reviews to perform sentiment classification with high accuracy. Includes preprocessing, model tuning, and visualization.
-
-### 🧬 [Breast Cancer Detection Using Deep Learning](https://github.com/OsasAnalyst/AI-Powered-Breast-Cancer-Diagnosis-A-Deep-Learning-Approach-for-Early-Detection)  
-Developed a neural network to classify tumors as benign or malignant using medical diagnostic data, enabling early-stage cancer detection.
-
-### 🧠 [Autism Prediction for Early Screening](https://github.com/OsasAnalyst/Autism-Insights-Predicting-Early-Detection)  
-Built a predictive model to assist in early autism diagnosis using behavioral and demographic indicators; improved screening accuracy through feature analysis.
-
-### 🍾 [Champagne Sales Forecasting](https://github.com/OsasAnalyst/Champagne-Insights-Unveiling-Sales-Trends-for-Perrin-Freres)  
-Applied ARIMA and SARIMAX to predict seasonal sales trends for a champagne brand. Forecasts helped reduce stockouts by 25% and optimize marketing efforts.
-
-### 🛍️ [Marketing Campaign Optimization via Customer Segmentation](https://github.com/OsasAnalyst/Targeted-Marketing-Campaign-Optimization-Using-Customer-Segmentation)  
-Used clustering to segment retail customers by spending behavior, enabling personalized marketing strategies and enhancing campaign ROI.
-
----
 
 ## 📫 Let’s Connect  
 - **Email:** [oidiagbonmwen@gmail.com](mailto:oidiagbonmwen@gmail.com)  
