@@ -1,41 +1,68 @@
-# 👋 Welcome to my GitHub!
+# 👋 Welcome to My GitHub
 
-I am a **Data Analyst** with a passion for turning raw data into actionable insights that drive business decisions. With a strong foundation in statistical analysis, data visualization, and predictive modeling, I specialize in leveraging data to solve complex problems and optimize performance across various industries.
-
----
-
-## 🔍 About Me
-
-I have expertise in **data analytics**, **business intelligence**, and **data-driven decision-making**. My work involves extracting, cleaning, and analyzing large datasets to uncover trends, patterns, and opportunities. I am fluent in multiple analytics tools, including **Python**, **SQL**, and **Power BI**, and I have experience developing data-driven solutions that deliver measurable impact.
-
-### 💼 Key Competencies
-- **Data Analysis & Visualization:** Advanced skills in transforming data into intuitive dashboards and reports using tools like **Power BI** and **Matplotlib**.
-- **SQL & Database Management:** Proficient in **SQL** for querying and managing relational databases, ensuring data integrity and extracting meaningful insights.
-- **Data Cleaning & Preparation:** Expertise in data wrangling using **Pandas**, **NumPy**, and **OpenRefine** to ensure high-quality datasets for analysis.
-- **Business Intelligence & Reporting:** Skilled in creating dynamic reports and dashboards that help stakeholders make informed decisions.
-- **Advanced Excel Skills:**
-  *Power Query:* Automating data cleaning and transformation processes.
-  *Data Analysis Expressions (DAX):* Creating advanced formulas for dynamic reports.
-  *Pivot Tables & Charts:* Summarizing and visualizing large datasets for data-driven insights.
-  *Solver & Goal Seek:* Performing optimization and scenario analysis to support decision-making.
-- **Problem-Solving & Insight Generation:** A critical thinker who excels at identifying key business challenges and translating them into comprehensive data solutions.
-
-### 🛠 Technical Skills
-- **Languages:** Python, SQL,
-- **Tools & Platforms:** Power BI, Excel and Jupyter
-- **Data Visualization:** Advanced charts and visualizations using Matplotlib and Seaborn
-
-### 🚀 Projects
-In my repositories, you'll find a collection of real-world projects that demonstrate my ability to apply data analytics skills to solve business problems. These projects include:
-- **Financial Dashboard in Power BI:** Develop a dashboard to visualize financial performance metrics.
-- **Investment Portfolio Analysis:** Analyze the performance of an investment portfolio to assess risk and return.
-- **Loan Credibility Analysis:** Assess loan applicants' creditworthiness using historical loan data.
-- **Comprehensive Financial Analysis:** conduct a detailed financial analysis of a hypothetical retail company using a combination of Excel, SQL, Python, and Power BI..
-
-### 🎯 My Goal
-To continue using data to support informed decision-making, deliver impactful insights, and contribute to the success of forward-thinking organizations. I am always open to collaborating on exciting data projects that push the boundaries of what's possible with analytics.
+I’m **Osaretin Idiagbonmwen**, a data professional passionate about solving real-world problems through **machine learning**, **natural language processing**, and **data-driven analysis**. My experience spans from building deep learning models to uncovering actionable business insights through data visualization and reporting.
 
 ---
 
- **📫 Let's Connect**
-```
+## 🔍 About Me  
+
+I am a data professional with a passion for solving real-world problems using machine learning, deep learning, and data analytics. My experience spans across **natural language processing**, **predictive modeling**, and **business intelligence**, allowing me to deliver end-to-end data solutions that drive measurable impact. I work extensively with tools like **Python**, **SQL**, and **Power BI**, transforming raw data into actionable insights to support informed decision-making.
+
+---
+
+## 💼 Key Competencies
+
+- **Data Science & Machine Learning:** Proficient in supervised/unsupervised learning, deep learning (CNN, LSTM), and NLP for tasks like classification, sentiment analysis, and detection.  
+- **Data Analysis & Visualization:** Skilled in uncovering trends and generating insights through data wrangling and visualizations using **Power BI**, `matplotlib`, and `seaborn`.  
+- **SQL & Database Management:** Strong command of SQL for querying and managing relational databases to support scalable data pipelines and reporting.  
+- **Data Preparation:** Hands-on experience with **pandas**, **NumPy**, and **OpenRefine** for cleaning and transforming datasets for analysis and modeling.  
+- **Business Intelligence & Reporting:** Built interactive dashboards and KPI trackers that support business strategy and performance monitoring.  
+- **Excel for Analytics:**  
+  - *Power Query:* Automated data cleaning and transformation  
+  - *DAX:* Created dynamic reports using advanced calculations  
+  - *Pivot Tables & Solver:* Performed scenario analysis and summarized key business metrics  
+- **Problem Solving & Insight Generation:** Adept at identifying business challenges and translating them into actionable, data-driven solutions.
+
+---
+
+## 🛠 Technical Skills
+
+- **Languages:** Python, SQL  
+- **Libraries & Frameworks:** pandas, NumPy, scikit-learn, TensorFlow, Keras, NLTK, spaCy, Matplotlib, Seaborn  
+- **Tools & Platforms:** Power BI, Excel, Jupyter Notebook, Git, GitHub, Jira  
+- **Techniques:** Data wrangling, EDA, machine learning, deep learning, NLP, model evaluation, dashboarding, real-time inference
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 [Fake News & Hate Speech Detection Using Deep Learning](https://github.com/OsasAnalyst/Fake-News-and-Hate-Speech-Detection-Using-NLP-and-Deep-Learning)  
+Developed a robust LSTM-based model to classify news articles for fake content and hate speech using word embeddings and NLP techniques.
+
+### 📰 [Fake News Detection Using ML & NLP](https://github.com/OsasAnalyst/Fake-News-Detection-Using-Machine-Learning-and-NLP)  
+Implemented a Random Forest model with TF-IDF feature extraction to detect fake news. Included full pipeline: EDA, preprocessing, training, and evaluation.
+
+### 😷 [Face Mask Detection Using Deep Learning](https://github.com/OsasAnalyst/Automated-Face-Mask-Detection-Using-Deep-Learning)  
+Built a CNN model achieving **92.4% accuracy** on real-world image data, supporting real-time inference at ~30 FPS, deployable for public safety and surveillance.
+
+### 🎥 [Sentiment Analysis with LSTM for Movie Reviews](https://github.com/OsasAnalyst/AI-Powered-Sentiment-Analysis-Leveraging-LSTM-for-Movie-Review-Classification)  
+Trained an LSTM-based model on IMDB movie reviews to perform sentiment classification with high accuracy. Includes preprocessing, model tuning, and visualization.
+
+### 🧬 [Breast Cancer Detection Using Deep Learning](https://github.com/OsasAnalyst/AI-Powered-Breast-Cancer-Diagnosis-A-Deep-Learning-Approach-for-Early-Detection)  
+Developed a neural network to classify tumors as benign or malignant using medical diagnostic data, enabling early-stage cancer detection.
+
+### 🧠 [Autism Prediction for Early Screening](https://github.com/OsasAnalyst/Autism-Insights-Predicting-Early-Detection)  
+Built a predictive model to assist in early autism diagnosis using behavioral and demographic indicators; improved screening accuracy through feature analysis.
+
+### 🍾 [Champagne Sales Forecasting](https://github.com/OsasAnalyst/Champagne-Insights-Unveiling-Sales-Trends-for-Perrin-Freres)  
+Applied ARIMA and SARIMAX to predict seasonal sales trends for a champagne brand. Forecasts helped reduce stockouts by 25% and optimize marketing efforts.
+
+### 🛍️ [Marketing Campaign Optimization via Customer Segmentation](https://github.com/OsasAnalyst/Targeted-Marketing-Campaign-Optimization-Using-Customer-Segmentation)  
+Used clustering to segment retail customers by spending behavior, enabling personalized marketing strategies and enhancing campaign ROI.
+
+---
+
+## 📫 Let’s Connect  
+- **Email:** [oidiagbonmwen@gmail.com](mailto:oidiagbonmwen@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/osaretin-idiagbonmwen-33ab85339](https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339)  
+- **Portfolio:** [osasanalyst.github.io](https://osasanalyst.github.io)
