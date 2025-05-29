@@ -1,13 +1,12 @@
 # 👋 Welcome to My GitHub
 
-I’m **Osaretin Idiagbonmwen**, a data professional passionate about solving real-world problems through **machine learning**, **natural language processing**, and **data-driven analysis**. My experience spans from building deep learning models to uncovering actionable business insights through data visualization and reporting.
+I’m **Osaretin Idiagbonmwen**, a data professional focused on helping businesses uncover insights, optimize performance, and scale intelligently using **data science**, **machine learning**, and **business intelligence**. My experience ranges from building deep learning and NLP models to crafting interactive dashboards that support strategic decision-making.
 
 ---
 
 ## 🔍 About Me  
 
-I am a data professional with a passion for solving real-world problems using machine learning, deep learning, and data analytics. My experience spans across **natural language processing**, **predictive modeling**, and **business intelligence**, allowing me to deliver end-to-end data solutions that drive measurable impact. I work extensively with tools like **Python**, **SQL**, and **Power BI**, transforming raw data into actionable insights to support informed decision-making.
-
+I specialize in solving real-world problems through **machine learning**, **deep learning**, and **natural language processing**, with a strong foundation in **business-focused data analytics**. I work extensively with tools like **Python**, **SQL**, **Power BI**, and **Excel**, delivering end-to-end solutions that drive measurable impact. Whether it's transforming messy datasets or building predictive models, I turn raw data into actionable insights that support informed decision-making.
 ---
 
 ## 💼 Key Competencies
