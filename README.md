@@ -7,6 +7,7 @@ I’m **Osaretin Idiagbonmwen**, a data professional focused on helping business
 ## 🔍 About Me  
 
 I specialize in solving real-world problems through **machine learning**, **deep learning**, and **natural language processing**, with a strong foundation in **business-focused data analytics**. I work extensively with tools like **Python**, **SQL**, **Power BI**, and **Excel**, delivering end-to-end solutions that drive measurable impact. Whether it's transforming messy datasets or building predictive models, I turn raw data into actionable insights that support informed decision-making.
+
 ---
 
 ## 💼 Key Competencies
