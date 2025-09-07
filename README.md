@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub
 
 I’m **Osaretin Idiagbonmwen**, a data professional focused on helping businesses uncover insights, optimize performance, and scale intelligently using **data science**, **machine learning**, and **business intelligence**.  
-My experience ranges from building deep learning models to crafting interactive dashboards that support strategic decision-making.
+My experience ranges from analyzing complex datasets and building machine learning models to crafting interactive dashboards that drive strategic decision-making
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=0e75b6)
 
