@@ -4,7 +4,6 @@ I’m **Osaretin Idiagbonmwen**, a data professional focused on helping business
 My experience ranges from analyzing complex datasets and building machine learning models to crafting interactive dashboards that drive strategic decision-making
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=0e75b6)
-![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
 ---
 
 ## 🔍 About Me  
