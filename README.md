@@ -67,6 +67,11 @@ I thrive on turning **data into decisions**.
 
 ---
 
+## 📦 Total repositories
+![Repos](https://img.shields.io/badge/Public%20Repos-XX-blue)
+
+---
+
 ## 📊 GitHub Highlights 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OsasAnalyst&theme=dark&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6)
