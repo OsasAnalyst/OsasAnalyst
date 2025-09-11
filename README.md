@@ -69,7 +69,7 @@ I thrive on turning **data into decisions**.
 
 ## 📊 GitHub Highlights 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OsasAnalyst&theme=dark&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OsasAnalyst&theme=dark&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6)
 
 ![Osaretin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsasAnalyst&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e75b6&icon_color=0e75b6&text_color=cfd8dc)
 
