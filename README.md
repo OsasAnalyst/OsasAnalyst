@@ -67,11 +67,11 @@ I thrive on turning **data into decisions**.
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 GitHub Highlights 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Osaretin-Idiagbonmwen&theme=tokyonight&hide_border=true&ring=00e676&fire=ff9100&currStreakLabel=00e676)](https://git.io/streak-stats)
 
-![Osaretin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&hide_border=true&show_icons=true&bg_color=151515&title_color=0e75b6&icon_color=0e75b6&text_color=9e9e9e)
+![Osaretin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osaretin-Idiagbonmwen&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=ff9100&text_color=cfd8dc)
 
 ---
 
