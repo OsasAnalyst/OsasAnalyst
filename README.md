@@ -75,9 +75,6 @@ I thrive on turning **data into decisions**.
 ![Osaretin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsasAnalyst&show_icons=true&hide_border=true&bg_color=151515&title_color=0e75b6&icon_color=0e75b6&text_color=9e9e9e)
 
 
-![Osaretin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsasAnalyst&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00e75b6&icon_color=0e75b6&text_color=cfd8dc)
-
-
 ---
 
 ## 📫 Let’s Connect  
