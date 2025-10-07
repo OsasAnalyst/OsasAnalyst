@@ -1,10 +1,15 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4500&pause=1000&vCenter=true&width=700&height=60&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Osaretin+%E2%80%94+Data+Scientist+%26+Insight+Strategist;I+help+eCommerce+brands+turn+data+into+growth+insights;Focused+on+pricing%2C+customer+behavior%2C+and+retail+strategy" alt="Typing SVG" /></a>
+<!-- Typing Intro -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4500&pause=1000&vCenter=true&width=700&height=60&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Osaretin+%E2%80%94+Data+Scientist+%26+Insight+Strategist;I+help+eCommerce+brands+turn+data+into+growth+insights;Focused+on+pricing%2C+customer+behavior%2C+and+retail+strategy" alt="Typing SVG" />
+  </a>
+</p>
 
 <div id="header-section" align="center" style="padding: 40px 0;">
 
   <!-- Avatar -->
   <div style="display: inline-block; background: radial-gradient(circle at center, #0E75B6 0%, #0b0b0b 70%); padding: 8px; border-radius: 50%;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1053/1053244.png" width="160px" style="border-radius: 50%; border: 4px solid #0E75B6;" alt="Osaretin Idiagbonmwen Avatar">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="160px" style="border-radius: 50%; border: 4px solid #0E75B6;" alt="Osaretin Idiagbonmwen Avatar">
   </div>
 
   <!-- Name & Title -->
@@ -13,12 +18,14 @@
     Data Scientist & Insight Strategist
   </h2>
 
-  <!-- Story Section -->
-  <p style="font-size: 1.1em; max-width: 850px; margin: 25px auto 35px; line-height: 1.7; color: #d1d1d1;">
-    I help e-commerce and retail businesses turn data into growth strategies.  
-    My focus is on building data-driven systems that reveal how customers buy, what drives conversions, and where opportunities for optimization exist.  
-    I combine machine learning, analytics, and business understanding to create insights that improve pricing, retention, and performance across digital platforms.
-  </p>
+  <!-- Story Section with Fade-In -->
+  <div style="animation: fadeIn 2s ease-in-out;">
+    <p style="font-size: 1.1em; max-width: 850px; margin: 25px auto 35px; line-height: 1.7; color: #d1d1d1;">
+      I help eCommerce and retail brands turn raw data into growth strategies.  
+      My focus is on uncovering how customers buy, what drives conversions, and where new opportunities for optimization exist.  
+      I combine <b>machine learning, analytics, and business understanding</b> to translate complex data into insights that improve pricing, retention, and overall performance.
+    </p>
+  </div>
 
   <!-- Social Links -->
   <div style="margin-top: 25px;">
@@ -37,6 +44,15 @@
   <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0,0,0,0), #0E75B6, rgba(0,0,0,0)); margin: 50px 0 0;">
 
 </div>
+
+<!-- Fade-In Animation CSS -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+
 
 
 
