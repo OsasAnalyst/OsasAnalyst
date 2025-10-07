@@ -97,7 +97,6 @@ I specialize in data science and analytics solutions, from data acquisition to b
 
 A collection of impactful projects demonstrating practical data science applications.
 
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/Projects-Data%20Science%20%7C%20AI%20%7C%20Analytics-orange?style=for-the-badge&logo=github&logoColor=white" alt="Projects Badge" />
