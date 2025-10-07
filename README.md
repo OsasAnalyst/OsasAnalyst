@@ -25,38 +25,52 @@
 
 I specialize in end-to-end data science solutions, from data acquisition to model deployment and business interpretation.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-top: 20px;">
+---
 
-<div style="flex-basis: 30%; background-color: #1a1a1a; padding: 20px; border-radius: 8px; border-top: 4px solid #F7931E;">
-  <h3 style="color: #F7931E; margin-top: 0;">Machine Learning & Modeling</h3>
-  <ul style="list-style-type: '🤖 '; padding-left: 25px; line-height: 1.8; color: #ccc;">
-    <li>Supervised/Unsupervised Learning</li>
-    <li>Deep Learning (CNNs, LSTMs)</li>
-    <li>Regression, Classification, Clustering</li>
-    <li>Model Evaluation (RMSE, Recall, F1)</li>
-  </ul>
+<div align="center">
+  <img src="https://img.shields.io/badge/Data%20Science%20Toolkit-Python%20|%20SQL%20|%20Power%20BI%20|%20Machine%20Learning-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Core Competencies Badge" />
 </div>
 
-<div style="flex-basis: 30%; background-color: #1a1a1a; padding: 20px; border-radius: 8px; border-top: 4px solid #4479A1;">
-  <h3 style="color: #4479A1; margin-top: 0;">Time Series & Forecasting</h3>
-  <ul style="list-style-type: '📈 '; padding-left: 25px; line-height: 1.8; color: #ccc;">
-    <li>Demand & Business Forecasting</li>
-    <li>Classical Models (ARIMA, SARIMA)</li>
-    <li>Advanced Techniques (Prophet)</li>
-    <li>Experimentation (A/B Testing)</li>
-  </ul>
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #F7931E, #4479A1, #217346); width: 80%; margin: 30px auto; border-radius: 2px;">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 25px; margin-top: 30px;">
+
+  <div style="flex-basis: 30%; background: linear-gradient(145deg, #1e1e1e, #292929); padding: 20px; border-radius: 12px; border-top: 5px solid #F7931E; box-shadow: 0 0 10px rgba(247,147,30,0.3); transition: transform 0.3s;">
+    <h3 align="center" style="color: #F7931E; margin-top: 0;">🤖 Machine Learning & Modeling</h3>
+    <ul style="list-style-type: none; padding-left: 10px; line-height: 1.8; color: #ccc;">
+      <li>🎯 Supervised & Unsupervised Learning</li>
+      <li>🧠 Deep Learning (CNNs, LSTMs)</li>
+      <li>📊 Regression, Classification, Clustering</li>
+      <li>📏 Model Evaluation (RMSE, Recall, F1)</li>
+    </ul>
+  </div>
+
+  <div style="flex-basis: 30%; background: linear-gradient(145deg, #1e1e1e, #292929); padding: 20px; border-radius: 12px; border-top: 5px solid #4479A1; box-shadow: 0 0 10px rgba(68,121,161,0.3); transition: transform 0.3s;">
+    <h3 align="center" style="color: #4479A1; margin-top: 0;">📈 Time Series & Forecasting</h3>
+    <ul style="list-style-type: none; padding-left: 10px; line-height: 1.8; color: #ccc;">
+      <li>📅 Demand & Business Forecasting</li>
+      <li>📊 Classical Models (ARIMA, SARIMA)</li>
+      <li>🔮 Advanced Techniques (Prophet)</li>
+      <li>🧪 Experimentation (A/B Testing)</li>
+    </ul>
+  </div>
+
+  <div style="flex-basis: 30%; background: linear-gradient(145deg, #1e1e1e, #292929); padding: 20px; border-radius: 12px; border-top: 5px solid #217346; box-shadow: 0 0 10px rgba(33,115,70,0.3); transition: transform 0.3s;">
+    <h3 align="center" style="color: #217346; margin-top: 0;">📊 Data & Business Intelligence</h3>
+    <ul style="list-style-type: none; padding-left: 10px; line-height: 1.8; color: #ccc;">
+      <li>🗃️ SQL Data Modeling & Querying</li>
+      <li>📊 Power BI & Interactive Dashboards</li>
+      <li>🤖 Web Scraping & Automation (ETL)</li>
+      <li>📈 Advanced Excel (Power Query, DAX)</li>
+    </ul>
+  </div>
+
 </div>
 
-<div style="flex-basis: 30%; background-color: #1a1a1a; padding: 20px; border-radius: 8px; border-top: 4px solid #217346;">
-  <h3 style="color: #217346; margin-top: 0;">Data & Business Intelligence</h3>
-  <ul style="list-style-type: '📊 '; padding-left: 25px; line-height: 1.8; color: #ccc;">
-    <li>SQL Data Modeling & Querying</li>
-    <li>Power BI & Interactive Dashboards</li>
-    <li>Web Scraping & Automation (ETL)</li>
-    <li>Advanced Excel (Power Query, DAX)</li>
-  </ul>
-</div>
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #217346, #4479A1, #F7931E); width: 80%; margin: 40px auto; border-radius: 2px;">
 
+<div align="center" style="margin-top: 25px;">
+  <img src="https://img.shields.io/badge/Driven%20By-Insight%20%26%20Impact-green?style=for-the-badge&logo=databricks&logoColor=white" alt="Data-Driven Badge" />
 </div>
 
 ---
