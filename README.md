@@ -19,7 +19,6 @@
   <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #0E75B6, rgba(0, 0, 0, 0)); margin: 40px 0;">
 </div>
 
----
 
 ## Core Competencies & Focus Areas
 
