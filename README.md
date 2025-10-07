@@ -21,11 +21,9 @@
 
 ---
 
-## 🎯 Core Competencies & Focus Areas
+## Core Competencies & Focus Areas
 
 I specialize in end-to-end data science solutions, from data acquisition to model deployment and business interpretation.
-
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data%20Science%20Toolkit-Python%20|%20SQL%20|%20Power%20BI%20|%20Machine%20Learning-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Core Competencies Badge" />
