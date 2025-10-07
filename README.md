@@ -1,41 +1,39 @@
-<div id="header-section" align="center" style="padding: 30px 0;">
-  <!-- Profile Image -->
-  <img src="https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=350&q=80" width="170px" 
-       style="border-radius: 50%; border: 4px solid #0E75B6; box-shadow: 0 4px 12px rgba(14, 117, 182, 0.4);" 
-       alt="Data Professional Portrait">
+<div id="header-section" align="center" style="padding: 40px 0;">
 
-  <!-- Name -->
-  <h1 style="color: #0E75B6; font-size: 2.9em; margin-bottom: 5px; letter-spacing: 0.5px; margin-top: 20px;">
-    Osaretin Idiagbonmwen
-  </h1>
+  <!-- Avatar -->
+  <div style="display: inline-block; background: radial-gradient(circle at center, #0E75B6 0%, #0b0b0b 70%); padding: 8px; border-radius: 50%;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1053/1053244.png" width="160px" style="border-radius: 50%; border: 4px solid #0E75B6;" alt="Osaretin Idiagbonmwen Avatar">
+  </div>
 
-  <!-- Role -->
-  <h2 style="font-size: 1.35em; font-weight: 400; margin-top: 5px; color: #b0b0b0;">
-    Data Scientist & Analytics Engineer | Optimizing E-commerce & Retail Performance through Data
+  <!-- Name & Title -->
+  <h1 style="color: #0E75B6; font-size: 2.8em; margin: 25px 0 5px; letter-spacing: 0.5px;">Osaretin Idiagbonmwen</h1>
+  <h2 style="font-size: 1.4em; font-weight: 400; margin-top: 0; color: #bdbdbd;">
+    Data Scientist & Insight Strategist
   </h2>
 
-  <!-- Bio -->
-  <p style="font-size: 1.1em; max-width: 850px; margin: 25px auto 30px; line-height: 1.7; color: #d0d0d0;">
-    I help businesses turn complex data into clear insights that shape smarter decisions. My work blends 
-    <b>data science</b>, <b>machine learning</b>, and <b>business analytics</b> to deliver measurable impact — 
-    from predictive modeling to end-to-end data systems that drive growth and efficiency in retail and e-commerce.
+  <!-- Story Section -->
+  <p style="font-size: 1.1em; max-width: 850px; margin: 25px auto 35px; line-height: 1.7; color: #d1d1d1;">
+    I help e-commerce and retail businesses turn data into growth strategies.  
+    My focus is on building data-driven systems that reveal how customers buy, what drives conversions, and where opportunities for optimization exist.  
+    I combine machine learning, analytics, and business understanding to create insights that improve pricing, retention, and performance across digital platforms.
   </p>
 
   <!-- Social Links -->
-  <div style="margin-top: 20px;">
-    <a href="https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339" target="_blank" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
+  <div style="margin-top: 25px;">
+    <a href="https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339" target="_blank" style="margin: 0 12px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn">
     </a>
-    <a href="mailto:oidiagbonmwen@gmail.com" target="_blank" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email">
+    <a href="mailto:oidiagbonmwen@gmail.com" target="_blank" style="margin: 0 12px;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email">
     </a>
-    <a href="https://oidiagbonmwen.wixsite.com/analytics-with-osare" target="_blank" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Portfolio-217346?style=for-the-badge&logo=wix&logoColor=white" height="30" alt="Portfolio">
+    <a href="https://oidiagbonmwen.wixsite.com/analytics-with-osare" target="_blank" style="margin: 0 12px;">
+      <img src="https://img.shields.io/badge/Portfolio-217346?style=for-the-badge&logo=wix&logoColor=white" height="32" alt="Portfolio">
     </a>
   </div>
 
-  <!-- Gradient Divider -->
-  <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0,0,0,0), #0E75B6, rgba(0,0,0,0)); margin: 45px 0;">
+  <!-- Divider -->
+  <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0,0,0,0), #0E75B6, rgba(0,0,0,0)); margin: 50px 0 0;">
+
 </div>
 
 
