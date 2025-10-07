@@ -44,13 +44,6 @@
 
 I specialize in data science and analytics solutions, from data acquisition to business interpretation.
 
-| Focus Area | Key Competencies |
-| :--- | :--- |
-| **Inventory & Supply Chain** | **Demand Forecasting** (Reducing Stockouts), Time Series Analysis (ARIMA, Prophet), Pricing Optimization, Data Automation. |
-| **Customer Intelligence** | **Customer Lifetime Value (CLV)**, RFM Segmentation, Churn/Abandonment Prediction, A/B Testing, Personalized Recommendation Systems. |
-| **Machine Learning & Modeling** | Deep Learning (for Multi-Modal Product Data), Ensemble Methods (XGBoost/LightGBM), Classification, Supervised and Unsupervised Learning. |
-| **Data & Business Intelligence** | SQL Data Modeling, ETL/ELT Pipelines, **Power BI** Dashboards for Sales/Marketing, Web Scraping for Market Data. |
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data%20Science%20Toolkit-Python%20|%20SQL%20|%20Power%20BI%20|%20Machine%20Learning-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Core Competencies Badge" />
