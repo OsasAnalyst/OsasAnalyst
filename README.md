@@ -73,93 +73,98 @@ I specialize in data science and analytics solutions, from data acquisition to b
 
 ---
 
-## 🌟 Flagship & Highlight Projects
+## 🚀 Flagship & Highlight Projects  
 
 A collection of impactful projects demonstrating practical data science applications.
 
-<div class="project-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px;">
+---
 
-<!-- Store Item Forecasting -->
-<div style="border: 1px solid #30363d; padding: 20px; border-radius: 8px;">
-  <h4 style="color: #0E75B6; margin-top: 0;">1. Store Item Demand Forecasting</h4>
-  <p style="font-size: 1em; color: #ccc;">
-    <b>Goal:</b> Build robust, data-driven forecasting models to reduce stockouts and overstocking in e-commerce inventory systems.
-  </p>
-  <p style="font-size: 0.9em; color: #0E75B6; font-weight: bold;">
-    Result: Tree-based ensemble models outperformed classical baselines, improving forecast accuracy and business planning efficiency.
-  </p>
-  <p style="font-size: 0.8em; color: #8b949e;">
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">Time Series</span>
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">Forecasting</span>
-    <a href="https://github.com/OsasAnalyst/store-item-demand-forecasting" target="_blank" style="color: #0E75B6; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
-  </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Projects-Data%20Science%20%7C%20AI%20%7C%20Analytics-orange?style=for-the-badge&logo=github&logoColor=white" alt="Projects Badge" />
 </div>
 
-<!-- DeepFusion -->
-<div style="border: 1px solid #30363d; padding: 20px; border-radius: 8px;">
-  <h4 style="color: #0E75B6; margin-top: 0;">2. DeepFusion: Multi-Modal Product Intelligence</h4>
-  <p style="font-size: 1em; color: #ccc;">
-    <b>Goal:</b> Scalable product categorization by fusing two signals: <b>product images</b> and <b>metadata</b>.
-  </p>
-  <p style="font-size: 0.9em; color: #0E75B6; font-weight: bold;">
-    Result: Achieved 86.4% accuracy, reducing manual cataloging and improving product discovery in e-commerce.
-  </p>
-  <p style="font-size: 0.8em; color: #8b949e;">
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">Deep Learning</span>
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">Image Processing</span>
-    <a href="https://github.com/OsasAnalyst/deepfusion-product-intelligence" target="_blank" style="color: #0E75B6; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
-  </p>
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #0E75B6, #F7931E, #217346); width: 85%; margin: 25px auto; border-radius: 2px;">
+
+<div class="project-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 25px; margin-top: 30px;">
+
+  <!-- Store Item Forecasting -->
+  <div style="background: linear-gradient(145deg, #1e1e1e, #2b2b2b); padding: 20px; border-radius: 12px; border-top: 5px solid #F7931E; box-shadow: 0 0 12px rgba(247,147,30,0.3); transition: transform 0.3s;">
+    <h4 style="color: #F7931E; margin-top: 0;">📦 Store Item Demand Forecasting</h4>
+    <p style="color: #ccc; font-size: 1em;">
+      <b>Goal:</b> Build robust, data-driven forecasting models to reduce stockouts and overstocking in e-commerce inventory systems.
+    </p>
+    <p style="color: #F7931E; font-weight: bold;">📊 Result: Tree-based ensemble models outperformed classical baselines, improving forecast accuracy and business planning efficiency.</p>
+    <p style="font-size: 0.8em; color: #8b949e;">
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">Time Series</span>
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">Forecasting</span>
+      <a href="https://github.com/OsasAnalyst/store-item-demand-forecasting" target="_blank" style="color: #F7931E; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
+    </p>
+  </div>
+
+  <!-- DeepFusion -->
+  <div style="background: linear-gradient(145deg, #1e1e1e, #2b2b2b); padding: 20px; border-radius: 12px; border-top: 5px solid #0E75B6; box-shadow: 0 0 12px rgba(14,117,182,0.3); transition: transform 0.3s;">
+    <h4 style="color: #0E75B6; margin-top: 0;">🧠 DeepFusion: Multi-Modal Product Intelligence</h4>
+    <p style="color: #ccc; font-size: 1em;">
+      <b>Goal:</b> Scalable product categorization by fusing two signals: <b>product images</b> and <b>metadata</b>.
+    </p>
+    <p style="color: #0E75B6; font-weight: bold;">🎯 Result: Achieved 86.4% accuracy, reducing manual cataloging and improving product discovery in e-commerce.</p>
+    <p style="font-size: 0.8em; color: #8b949e;">
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">Deep Learning</span>
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">Image Processing</span>
+      <a href="https://github.com/OsasAnalyst/deepfusion-product-intelligence" target="_blank" style="color: #0E75B6; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
+    </p>
+  </div>
+
+  <!-- Customer Segmentation -->
+  <div style="background: linear-gradient(145deg, #1e1e1e, #2b2b2b); padding: 20px; border-radius: 12px; border-top: 5px solid #217346; box-shadow: 0 0 12px rgba(33,115,70,0.3); transition: transform 0.3s;">
+    <h4 style="color: #217346; margin-top: 0;">👥 Customer Segmentation & CLV Analysis</h4>
+    <p style="color: #ccc; font-size: 1em;">
+      <b>Goal:</b> Discover high-value customer segments using <b>RFM</b> and <b>K-Means Clustering</b>.
+    </p>
+    <p style="color: #217346; font-weight: bold;">💡 Result: Identified a VIP segment (<1% of customers) driving most sales, enabling smarter retention strategies.</p>
+    <p style="font-size: 0.8em; color: #8b949e;">
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">Unsupervised ML</span>
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">Business Analytics</span>
+      <a href="https://github.com/OsasAnalyst/Customer-Segmentation-CLV-Analysis" target="_blank" style="color: #217346; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
+    </p>
+  </div>
+
+  <!-- Cart Abandonment -->
+  <div style="background: linear-gradient(145deg, #1e1e1e, #2b2b2b); padding: 20px; border-radius: 12px; border-top: 5px solid #B86BFF; box-shadow: 0 0 12px rgba(184,107,255,0.3); transition: transform 0.3s;">
+    <h4 style="color: #B86BFF; margin-top: 0;">🛒 Cart Abandonment Prediction</h4>
+    <p style="color: #ccc; font-size: 1em;">
+      <b>Goal:</b> Predict customers likely to abandon carts to reduce the $4.3M+ annual loss from unfinished purchases.
+    </p>
+    <p style="color: #B86BFF; font-weight: bold;">⚡ Result: Logistic Regression achieved Recall = 1.00, catching nearly all abandoners for proactive targeting.</p>
+    <p style="font-size: 0.8em; color: #8b949e;">
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">Classification</span>
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">High Recall</span>
+      <a href="https://github.com/OsasAnalyst/cart-abandonment-prediction" target="_blank" style="color: #B86BFF; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
+    </p>
+  </div>
+
+  <!-- Sneaker Price Analysis -->
+  <div style="background: linear-gradient(145deg, #1e1e1e, #2b2b2b); padding: 20px; border-radius: 12px; border-top: 5px solid #FF5E5E; box-shadow: 0 0 12px rgba(255,94,94,0.3); transition: transform 0.3s;">
+    <h4 style="color: #FF5E5E; margin-top: 0;">👟 Automated Sneaker Price Analysis System</h4>
+    <p style="color: #ccc; font-size: 1em;">
+      <b>Goal:</b> Create a scalable sneaker price intelligence system by automating data collection from major retail platforms.
+    </p>
+    <p style="color: #FF5E5E; font-weight: bold;">📈 Result: Revealed a 34% pricing gap between Nike and Zappos, highlighting market positioning differences.</p>
+    <p style="font-size: 0.8em; color: #8b949e;">
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">Web Scraping / ETL</span>
+      <span style="background-color: #30363d; padding: 4px 10px; border-radius: 4px;">Power BI Ready</span>
+      <a href="https://github.com/OsasAnalyst/sneaker-price-analysis" target="_blank" style="color: #FF5E5E; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
+    </p>
+  </div>
+
 </div>
 
-<!-- Customer Segmentation -->
-<div style="border: 1px solid #30363d; padding: 20px; border-radius: 8px;">
-  <h4 style="color: #0E75B6; margin-top: 0;">3. Customer Segmentation & CLV Analysis</h4>
-  <p style="font-size: 1em; color: #ccc;">
-    <b>Goal:</b> Discover high-value customer segments using <b>RFM</b> and <b>K-Means Clustering</b>.
-  </p>
-  <p style="font-size: 0.9em; color: #0E75B6; font-weight: bold;">
-    Result: Identified a VIP segment (<1% of customers) driving most sales, enabling smarter retention strategies.
-  </p>
-  <p style="font-size: 0.8em; color: #8b949e;">
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">Unsupervised ML</span>
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">Business Analytics</span>
-    <a href="https://github.com/OsasAnalyst/Customer-Segmentation-CLV-Analysis" target="_blank" style="color: #0E75B6; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
-  </p>
+<hr style="border: none; height: 3px; background: linear-gradient(to right, #217346, #F7931E, #0E75B6); width: 85%; margin: 40px auto; border-radius: 2px;">
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Built%20With-Python%20%7C%20Pandas%20%7C%20Scikit--Learn%20%7C%20Power%20BI-blue?style=for-the-badge&logo=python&logoColor=white" alt="Tech Stack Badge" />
 </div>
 
-<!-- Cart Abandonment -->
-<div style="border: 1px solid #30363d; padding: 20px; border-radius: 8px;">
-  <h4 style="color: #0E75B6; margin-top: 0;">4. Cart Abandonment Prediction</h4>
-  <p style="font-size: 1em; color: #ccc;">
-    <b>Goal:</b> Predict customers likely to abandon carts to reduce the $4.3M+ annual loss from unfinished purchases.
-  </p>
-  <p style="font-size: 0.9em; color: #0E75B6; font-weight: bold;">
-    Result: Logistic Regression achieved Recall = 1.00, catching nearly all abandoners for proactive targeting.
-  </p>
-  <p style="font-size: 0.8em; color: #8b949e;">
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">Classification</span>
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">High Recall</span>
-    <a href="https://github.com/OsasAnalyst/cart-abandonment-prediction" target="_blank" style="color: #0E75B6; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
-  </p>
-</div>
-
-<!-- Sneaker Price Analysis -->
-<div style="border: 1px solid #30363d; padding: 20px; border-radius: 8px;">
-  <h4 style="color: #0E75B6; margin-top: 0;">5. Automated Sneaker Price Analysis System</h4>
-  <p style="font-size: 1em; color: #ccc;">
-    <b>Goal:</b> Create a scalable sneaker price intelligence system by automating data collection from major retail platforms.
-  </p>
-  <p style="font-size: 0.9em; color: #0E75B6; font-weight: bold;">
-    Result: Revealed a 34% pricing gap between Nike and Zappos, highlighting market positioning differences.
-  </p>
-  <p style="font-size: 0.8em; color: #8b949e;">
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">Web Scraping/ETL</span>
-    <span style="background-color: #30363d; padding: 3px 8px; border-radius: 4px;">Power BI Ready</span>
-    <a href="https://github.com/OsasAnalyst/sneaker-price-analysis" target="_blank" style="color: #0E75B6; font-weight: bold; text-decoration: none; margin-left: 10px;">→ Repo</a>
-  </p>
-</div>
-
-</div>
 
 ---
 
