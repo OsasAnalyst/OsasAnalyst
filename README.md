@@ -1,23 +1,43 @@
-<div id="header-section" align="center">
-  <img src="https://avatars.githubusercontent.com/u/74643038?v=4" width="160px" style="border-radius: 50%; border: 4px solid #0E75B6;" alt="Osaretin Idiagbonmwen Profile Photo">
-  <h1 style="color: #0E75B6; font-size: 2.8em; margin-bottom: 5px; letter-spacing: 1px;">Osaretin Idiagbonmwen</h1>
-  <h2 style="font-size: 1.4em; font-weight: 400; margin-top: 0; color: #9e9e9e;">Data Scientist & Machine Learning Engineer | Impacting E-commerce & Retail</h2>
-  <p style="font-size: 1.15em; max-width: 800px; margin: 25px auto 30px; line-height: 1.6;">
-    I am a data professional focused on helping businesses uncover insights, optimize performance, and scale intelligently using <b>data science</b>, <b>machine learning</b>, and <b>business intelligence</b>. My expertise lies in translating complex datasets into <b>measurable business outcomes</b>, specializing in predictive modeling and advanced analytics for retail and e-commerce challenges.
+<div id="header-section" align="center" style="padding: 30px 0;">
+  <!-- Profile Image -->
+  <img src="https://images.unsplash.com/photo-1556761175-4b46a572b786?auto=format&fit=crop&w=350&q=80" width="170px" 
+       style="border-radius: 50%; border: 4px solid #0E75B6; box-shadow: 0 4px 12px rgba(14, 117, 182, 0.4);" 
+       alt="Data Professional Portrait">
+
+  <!-- Name -->
+  <h1 style="color: #0E75B6; font-size: 2.9em; margin-bottom: 5px; letter-spacing: 0.5px; margin-top: 20px;">
+    Osaretin Idiagbonmwen
+  </h1>
+
+  <!-- Role -->
+  <h2 style="font-size: 1.35em; font-weight: 400; margin-top: 5px; color: #b0b0b0;">
+    Data Scientist & Analytics Engineer | Driving Insights for Retail and E-commerce
+  </h2>
+
+  <!-- Bio -->
+  <p style="font-size: 1.1em; max-width: 850px; margin: 25px auto 30px; line-height: 1.7; color: #d0d0d0;">
+    I help businesses turn complex data into clear insights that shape smarter decisions. My work blends 
+    <b>data science</b>, <b>machine learning</b>, and <b>business analytics</b> to deliver measurable impact — 
+    from predictive modeling to end-to-end data systems that drive growth and efficiency in retail and e-commerce.
   </p>
 
-  <a href="https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
-  </a>
-  <a href="mailto:oidiagbonmwen@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email">
-  </a>
-  <a href="https://oidiagbonmwen.wixsite.com/analytics-with-osare" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Portfolio-217346?style=for-the-badge&logo=wix&logoColor=white" height="30" alt="Portfolio">
-  </a>
+  <!-- Social Links -->
+  <div style="margin-top: 20px;">
+    <a href="https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339" target="_blank" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
+    </a>
+    <a href="mailto:oidiagbonmwen@gmail.com" target="_blank" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email">
+    </a>
+    <a href="https://oidiagbonmwen.wixsite.com/analytics-with-osare" target="_blank" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/Portfolio-217346?style=for-the-badge&logo=wix&logoColor=white" height="30" alt="Portfolio">
+    </a>
+  </div>
 
-  <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #0E75B6, rgba(0, 0, 0, 0)); margin: 40px 0;">
+  <!-- Gradient Divider -->
+  <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0,0,0,0), #0E75B6, rgba(0,0,0,0)); margin: 45px 0;">
 </div>
+
 
 
 ## Core Competencies & Focus Areas
