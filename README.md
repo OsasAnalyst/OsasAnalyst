@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4500&pause=1000&vCenter=true&width=500&height=60&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Osaretin+%E2%80%94+Data+Scientist+%26+Insight+Strategist;I+help+eCommerce+brands+turn+data+into+growth+insights;Focused+on+pricing%2C+customer+behavior%2C+and+retail+strategy" alt="Typing SVG" /></a>
+
 <div id="header-section" align="center" style="padding: 40px 0;">
 
   <!-- Avatar -->
