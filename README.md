@@ -107,7 +107,7 @@ I specialize in data science and analytics solutions, from data acquisition to b
 <tr>
 <td width="48%" valign="top">
   
-### 🟦 Store Item Demand Forecasting  
+### Store Item Demand Forecasting  
 **Predictive Intelligence for Retail Operations**  
 Forecasting product demand across multiple stores and items using **ARIMA, SARIMA, XGBoost, LightGBM, Random Forest, GRU, and LSTM**.  
 Includes baselines, model evaluation, feature engineering, and Power BI dashboard integration.  
@@ -117,7 +117,7 @@ Includes baselines, model evaluation, feature engineering, and Power BI dashboar
 </td>
 <td width="48%" valign="top">
   
-### 🟧 Cart Abandonment Prediction  
+### Cart Abandonment Prediction  
 **Improving Checkout Conversions with Predictive Modeling**  
 Machine learning project that predicts which customers are likely to abandon carts in an e-commerce store.  
 Built using classification models and customer behavior data to enable targeted retention campaigns.  
@@ -130,7 +130,7 @@ Built using classification models and customer behavior data to enable targeted 
 <tr>
 <td width="48%" valign="top">
   
-### 🟩 Customer Churn & Retention Analysis  
+### Customer Churn & Retention Analysis  
 **Predicting and Preventing Customer Loss**  
 Analyzed customer churn patterns using SQL and Power BI to uncover key drivers of attrition.
 Built interactive dashboards that highlight retention metrics, customer lifetime value, and actionable insights for marketing teams.  
@@ -140,7 +140,7 @@ Built interactive dashboards that highlight retention metrics, customer lifetime
 </td>
 <td width="48%" valign="top">
   
-### 🟪 DeepFusion AI System  
+### DeepFusion AI System  
 **Intelligent Pipeline for Automated Data Science Workflows**  
 An integrated system combining data ingestion, feature generation, model selection, and automated evaluation.  
 Designed for scalability, efficiency, and seamless MLOps integration.  
