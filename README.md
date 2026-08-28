@@ -1,151 +1,122 @@
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4500&pause=1000&vCenter=true&width=700&height=60&lines=Hi+there+%F0%9F%91%8B;I%E2%80%99m+Osaretin+%E2%80%94+Data+Scientist+%26+Insight+Strategist;I+help+eCommerce+brands+turn+data+into+growth+insights;Focused+on+pricing%2C+customer+behavior%2C+and+retail+strategy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4500&pause=1000&vCenter=true&width=750&height=60&lines=Hi+there%2C+I%27m+Osaretin;FP%26A+Analyst+%7C+Chartered+Accountant+(ACA%2C+ICAN);I+turn+financial+data+into+decisions+leadership+can+trust;For+SaaS%2C+DTC%2C+and+Subscription+brands" alt="Typing SVG" />
   </a>
 </p>
 
-<div id="header-section" align="center" style="padding: 40px 0;">
-
-  <!-- Avatar -->
-  <div style="display: inline-block; background: radial-gradient(circle at center, #0E75B6 0%, #0b0b0b 70%); padding: 8px; border-radius: 50%;">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="160px" style="border-radius: 50%; border: 4px solid #0E75B6;" alt="Osaretin Idiagbonmwen Avatar">
-  </div>
-
-  <!-- Name & Title -->
-  <h1 style="color: #0E75B6; font-size: 2.8em; margin: 25px 0 5px; letter-spacing: 0.5px;">Osaretin Idiagbonmwen</h1>
-  <h2 style="font-size: 1.4em; font-weight: 400; margin-top: 0; color: #bdbdbd;">
-    Data Scientist & Insight Strategist
-  </h2>
-
-  <!-- Story Section with Fade-In -->
-  <div style="animation: fadeIn 2s ease-in-out;">
-    <p style="font-size: 1.1em; max-width: 850px; margin: 25px auto 35px; line-height: 1.7; color: #d1d1d1;">
-      I help eCommerce and retail brands turn raw data into growth strategies.  
-      My focus is on uncovering how customers buy, what drives conversions, and where new opportunities for optimization exist.  
-      I combine <b>machine learning, analytics, and business understanding</b> to translate complex data into insights that improve pricing, retention, and overall performance.
-    </p>
-  </div>
-
-  <!-- Social Links -->
-  <div style="margin-top: 25px;">
-    <a href="https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339" target="_blank" style="margin: 0 12px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn">
-    </a>
-    <a href="mailto:oidiagbonmwen@gmail.com" target="_blank" style="margin: 0 12px;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email">
-    </a>
-    <a href="https://oidiagbonmwen.wixsite.com/analytics-with-osare" target="_blank" style="margin: 0 12px;">
-      <img src="https://img.shields.io/badge/Portfolio-217346?style=for-the-badge&logo=wix&logoColor=white" height="32" alt="Portfolio">
-    </a>
-  </div>
-
-  <!-- Divider -->
-  <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, rgba(0,0,0,0), #0E75B6, rgba(0,0,0,0)); margin: 50px 0 0;">
-
-</div>
-
-
-## Core Competencies & Focus Areas
-
-I specialize in data science and analytics solutions, from data acquisition to business interpretation.
-
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Data%20Science%20Toolkit-Python%20|%20SQL%20|%20Power%20BI%20|%20Machine%20Learning-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="Core Competencies Badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Fractional%20FP%26A%20%26%20Financial%20Modeling-1F3864?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Open to work badge" />
 </div>
 
-<hr style="border: none; height: 3px; background: linear-gradient(to right, #F7931E, #4479A1, #217346); width: 80%; margin: 30px auto; border-radius: 2px;">
+<div align="center" style="padding: 30px 0;">
+  <h1 style="color:#1F3864; font-size:2.6em; margin-bottom:5px;">Osaretin Idiagbonmwen</h1>
+  <h3 style="font-weight:400; color:#4d4d4d; margin-top:0;">FP&amp;A Analyst &nbsp;|&nbsp; Chartered Accountant (ACA, ICAN) &nbsp;|&nbsp; Financial Modeling &amp; Forecasting</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 25px; margin-top: 30px;">
-
-  <div style="flex-basis: 30%; background: linear-gradient(145deg, #1e1e1e, #292929); padding: 20px; border-radius: 12px; border-top: 5px solid #F7931E; box-shadow: 0 0 10px rgba(247,147,30,0.3); transition: transform 0.3s;">
-    <h3 align="center" style="color: #F7931E; margin-top: 0;">🤖 Machine Learning & Modeling</h3>
-    <ul style="list-style-type: none; padding-left: 10px; line-height: 1.8; color: #ccc;">
-      <li>🎯 Supervised & Unsupervised Learning</li>
-      <li>🧠 Deep Learning (CNNs, LSTMs)</li>
-      <li>📊 Regression, Classification, Clustering</li>
-      <li>📏 Model Evaluation (RMSE, Recall, F1)</li>
-    </ul>
-  </div>
-
-  <div style="flex-basis: 30%; background: linear-gradient(145deg, #1e1e1e, #292929); padding: 20px; border-radius: 12px; border-top: 5px solid #4479A1; box-shadow: 0 0 10px rgba(68,121,161,0.3); transition: transform 0.3s;">
-    <h3 align="center" style="color: #4479A1; margin-top: 0;">📈 Time Series & Forecasting</h3>
-    <ul style="list-style-type: none; padding-left: 10px; line-height: 1.8; color: #ccc;">
-      <li>📅 Demand & Business Forecasting</li>
-      <li>📊 Classical Models (ARIMA, SARIMA)</li>
-      <li>🔮 Advanced Techniques (Prophet)</li>
-      <li>🧪 Experimentation (A/B Testing)</li>
-    </ul>
-  </div>
-
-  <div style="flex-basis: 30%; background: linear-gradient(145deg, #1e1e1e, #292929); padding: 20px; border-radius: 12px; border-top: 5px solid #217346; box-shadow: 0 0 10px rgba(33,115,70,0.3); transition: transform 0.3s;">
-    <h3 align="center" style="color: #217346; margin-top: 0;">📊 Data & Business Intelligence</h3>
-    <ul style="list-style-type: none; padding-left: 10px; line-height: 1.8; color: #ccc;">
-      <li>🗃️ SQL Data Modeling & Querying</li>
-      <li>📊 Power BI & Interactive Dashboards</li>
-      <li>🤖 Web Scraping & Automation (ETL)</li>
-      <li>📈 Advanced Excel (Power Query, DAX)</li>
-    </ul>
-  </div>
-
+  <p align="center">
+    <a href="https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339"><img src="https://img.shields.io/badge/LinkedIn-1F3864?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:oidiagbonmwen@gmail.com"><img src="https://img.shields.io/badge/Email-217346?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://datascienceportfol.io/idiagbonmwenosaretin"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  </p>
 </div>
 
-<hr style="border: none; height: 3px; background: linear-gradient(to right, #217346, #4479A1, #F7931E); width: 80%; margin: 40px auto; border-radius: 2px;">
+<hr style="border:0; height:2px; background:linear-gradient(to right, rgba(255,255,255,0), #1F3864, rgba(255,255,255,0));">
 
-<div align="center" style="margin-top: 25px;">
-  <img src="https://img.shields.io/badge/Driven%20By-Insight%20%26%20Impact-green?style=for-the-badge&logo=databricks&logoColor=white" alt="Data-Driven Badge" />
-</div>
+## Who I Am
 
----
+Numbers only matter when someone can act on them. That belief is what pulled me out of pure data analysis and into FP&A.
 
-## 💼 Featured Data Science Projects
+I'm a Chartered Accountant (ACA, ICAN), with an AAT certification and a BSc in Accounting from the University of Benin sitting underneath that. But the accounting background is only half the story. I also work like an analyst: I build models, write the SQL, clean the data, and design the dashboard myself, instead of handing that part off. That combination is rare. Most accountants can't build the model. Most analysts don't understand why a balance sheet has to balance. I sit in the middle, and that is exactly where a growing SaaS, DTC, or subscription brand needs someone to stand.
+
+## Who I Help
+
+I work with founders and finance leads at SaaS, DTC ecommerce, and subscription companies, the kind of business that has outgrown a spreadsheet built in a rush but isn't yet ready to hire a full FP&A team. At that stage, the questions get harder. How much runway is actually left. What happens to cash if a channel underperforms for two months. Which customers are worth the acquisition spend and which aren't. Why did this month miss budget, and is it a pattern or a one-off. I build the models and reports that answer those questions honestly, with real assumptions instead of hope.
+
+## What I Do
+
+FP&A is not one skill, it's a small set of disciplines that work together. Here is where I operate:
+
+**Financial Modeling & Forecasting**
+Building fully linked 3-statement models (income statement, balance sheet, cash flow) that hold together under different assumptions, not just in the base case. Rolling forecasts that get updated as new actuals come in, not rebuilt from scratch every quarter.
+
+**Budgeting & Planning**
+Turning a company's goals into a budget that operations can actually be held to, and building the re-forecast process so the budget stays useful past month one.
+
+**Variance Analysis**
+Explaining the gap between plan and actual in terms a non-finance stakeholder can act on: how much of the miss was price, how much was volume, and how much was something nobody budgeted for.
+
+**Scenario & Risk Planning**
+Stress-testing the numbers before the business has to live through the bad case. Base, best, and worst case narratives, not just three columns with different growth rates typed in.
+
+**Cash Flow Management**
+Rolling short-term cash forecasts (13-week and beyond) that give a real answer to "can we make payroll in six weeks" instead of a vague feeling about the bank balance.
+
+**Reporting & Business Partnering**
+Monthly board and investor reporting packages that lead with the story the numbers are telling, not just a wall of tables. The goal is always a decision, not a report for its own sake.
+
+<hr style="border:0; height:2px; background:linear-gradient(to right, rgba(255,255,255,0), #217346, rgba(255,255,255,0));">
+
+## How I Prove It
+
+Talk is cheap in finance. So instead of only listing skills, I build full models against real, publicly available financial data and put the entire process on GitHub, the data sourcing, the assumptions, and the finished model, so anyone can check my work.
+
+### 3-Statement Financial Model with Scenario Planner — Warby Parker (WRBY)
+
+The project I'd point to first. A fully linked 3-statement model built from Warby Parker's actual SEC filings, spanning five real fiscal years, with a Base/Best/Worst scenario planner and a board-style dashboard on top.
+
+- Sourced and cleaned five years of historical financials directly from the SEC EDGAR API, not a pre-cleaned dataset
+- Fully linked income statement, balance sheet, and cash flow, with automated checks that catch the model if it stops balancing
+- A scenario planner with assumptions tied to Warby Parker's real growth and margin history, not arbitrary guesses
+- A CFO-style board memo written from the model's actual output
+
+**[View the repository](https://github.com/OsasAnalyst/3-statement-model-warbyparker)**
+
+### Other Work
 
 <div align="center">
 
 <table>
 <tr>
-<td width="48%" valign="top">
-  
-### Store Item Demand Forecasting  
-**Predictive Intelligence for Retail Operations**  
-Forecasting product demand across multiple stores and items using **ARIMA, SARIMA, XGBoost, LightGBM, Random Forest, GRU, and LSTM**.  
-Includes baselines, model evaluation, feature engineering, and Power BI dashboard integration.  
+<td width="50%" valign="top">
 
-🔗 [View Repository](https://github.com/OsasAnalyst/store-item-demand-forecasting)
+**Automated Monthly Board Reporting Package**
+A pipeline that takes raw monthly actuals and turns them into a board-ready deck on its own: data validation, KPI calculation, variance flags, commentary, and a forecast, in one run.
+[Repository](https://github.com/OsasAnalyst/monthly-board-reporting-package)
 
 </td>
-<td width="48%" valign="top">
-  
-### Cart Abandonment Prediction  
-**Improving Checkout Conversions with Predictive Modeling**  
-Machine learning project that predicts which customers are likely to abandon carts in an e-commerce store.  
-Built using classification models and customer behavior data to enable targeted retention campaigns.  
+<td width="50%" valign="top">
 
-🔗 [View Repository](https://github.com/OsasAnalyst/cart-abandonment-prediction)
+**Budget vs Actual Variance Analysis**
+A driver-based variance model that splits every miss into price, volume, and mix effects, with materiality thresholds and automated commentary.
+[Repository](https://github.com/OsasAnalyst/budget-vs-actual-variance)
 
 </td>
 </tr>
-
 <tr>
-<td width="48%" valign="top">
-  
-### Customer Churn & Retention Analysis  
-**Predicting and Preventing Customer Loss**  
-Analyzed customer churn patterns using SQL and Power BI to uncover key drivers of attrition.
-Built interactive dashboards that highlight retention metrics, customer lifetime value, and actionable insights for marketing teams.  
+<td width="50%" valign="top">
 
-🔗 [View Repository](https://github.com/OsasAnalyst/customer-churn-retention)
+**Unit Economics Model (LTV:CAC)**
+Channel-level LTV:CAC and payback period analysis on real customer order history, built into a live Excel dashboard a non-technical user can actually operate.
+[Repository](https://github.com/OsasAnalyst/unit-economics-model)
 
 </td>
-<td width="48%" valign="top">
-  
-### DeepFusion AI System  
-**Intelligent Pipeline for Automated Data Science Workflows**  
-An integrated system combining data ingestion, feature generation, model selection, and automated evaluation.  
-Designed for scalability, efficiency, and seamless MLOps integration.  
+<td width="50%" valign="top">
 
-🔗 [View Repository](https://github.com/OsasAnalyst/deepfusion-ai-system)
+**13-Week Rolling Cash Flow Forecast**
+A rolling cash forecast for a DTC brand, stress-tested against real risk scenarios like AR slippage and vendor payment collisions.
+[Repository](https://github.com/OsasAnalyst/13-week-cash-flow-forecast)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**SaaS MRR Bridge & Cohort Retention Model**
+An MRR movement bridge, new, expansion, contraction, and churn, paired with cohort retention analysis and NRR/GRR tracking.
+[Repository](https://github.com/OsasAnalyst/saas-mrr-bridge-cohort-retention-model)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -153,62 +124,32 @@ Designed for scalability, efficiency, and seamless MLOps integration.
 
 </div>
 
+<hr style="border:0; height:2px; background:linear-gradient(to right, rgba(255,255,255,0), #1F3864, rgba(255,255,255,0));">
 
+## Tools I Work In
 
----
-
-## 🛠️ Technical Toolbox (Detailed Stack)
-
-<div align="center" style="margin-top: 20px;">
-  <h3 style="color: #0E75B6;">Programming & ML Frameworks</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prophet-0077B6?style=for-the-badge&logo=facebook&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-1572B6?style=for-the-badge&logo=github&logoColor=white" />
-
-  <h3 style="color: #0E75B6; margin-top: 30px;">Data & Analysis Libraries</h3>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-9e9e9e?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-9e9e9e?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-  <h3 style="color: #0E75B6; margin-top: 30px;">Data Acquisition & BI</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1F3864?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-
-  <h3 style="color: #0E75B6; margin-top: 30px;">Version Control & Workflow</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Klaviyo-1F3864?style=for-the-badge&logo=klaviyo&logoColor=white" />
 </div>
 
----
+## Credentials
 
-## 📈 Activity & Professional Metrics
+- **ACA** — Institute of Chartered Accountants of Nigeria (ICAN), Chartered Accountant
+- **AAT** — Association of Accounting Technicians
+- **BSc Accounting** — University of Benin
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsasAnalyst&show_icons=true&hide_border=true&bg_color=151515&title_color=0E75B6&icon_color=0E75B6&text_color=9e9e9e&ring=0E75B6&hide_title=true&count_private=true" alt="Osaretin's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OsasAnalyst&theme=dark&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&background=151515&sideNums=9e9e9e&sideLabels=9e9e9e" alt="GitHub Streak"/>
-</div>
+<hr style="border:0; height:2px; background:linear-gradient(to right, rgba(255,255,255,0), #217346, rgba(255,255,255,0));">
 
----
-
-## 💬 Let’s Collaborate
+## Let's Work Together
 
 <div align="center">
-  <h3 style="color: #0E75B6; font-size: 1.6em;">Looking for a Data Scientist to drive your next strategic initiative?</h3>
-  <p style="font-size: 1.1em; max-width: 600px; color: #ccc;">
-    I thrive on turning data into decisions. Feel free to connect regarding opportunities, projects, or collaborations.
+  <p style="font-size:1.05em; max-width:620px; margin:0 auto 20px;">
+    If your finance function has outgrown the spreadsheet, but isn't ready for a full-time hire yet, that gap is exactly where I work. I'd like to hear what you're trying to answer.
   </p>
-  <a href="https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Profile"/>
-  </a>
-  <a href="mailto:oidiagbonmwen@gmail.com" target="_blank" style="margin: 10px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Say_Hello_via_Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="35" alt="Email Address"/>
-  </a>
+  <a href="https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1F3864?style=flat-square&logo=linkedin&logoColor=white" height="32"></a>
+  <a href="mailto:oidiagbonmwen@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-217346?style=flat-square&logo=gmail&logoColor=white" height="32"></a>
 </div>
