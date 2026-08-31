@@ -16,7 +16,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/osaretin-idiagbonmwen-33ab85339"><img src="https://img.shields.io/badge/LinkedIn-1F3864?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:oidiagbonmwen@gmail.com"><img src="https://img.shields.io/badge/Email-217346?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://datascienceportfol.io/idiagbonmwenosaretin"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+    <a href="https://osaretin-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   </p>
 </div>
 
